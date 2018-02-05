@@ -28,8 +28,14 @@ python main.py
 2. Model trained using Epoch = 20 , Batch size =8 , Learning rate = 0.0009 and eep_prob: 0.5
 
 ### Final Result
-1. ![Before](./data/um_000000.png)
-2. ![After](./runs/1511550481.8569179/um_000000.png)
+1.Before
+![Before](./data/um_000000.png)
+
+2.After 
+
+
+
+![After](./runs/1511550481.8569179/um_000000.png)
 
 
 
